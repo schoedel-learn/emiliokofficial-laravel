@@ -1,0 +1,15 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/schoedel-learn/emiliokofficial-laravel/discussions/new?category=q-a
+    about: Ask questions and discuss ideas with the community
+  - name: 🙏 Share Your Story
+    url: https://github.com/schoedel-learn/emiliokofficial-laravel/discussions/new?category=show-and-tell
+    about: Share how Faith & Flourishing has helped you
+  - name: 🛡️ Report Security Vulnerability
+    url: mailto:security@emiliokofficial.com
+    about: Please email security issues privately instead of creating a public issue
+  - name: 🌐 Visit Live Site
+    url: https://emiliokofficial.com
+    about: Check out the live application
+
